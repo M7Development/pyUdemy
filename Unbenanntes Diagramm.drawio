@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T19:12:33.116Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" version="21.3.2" etag="QmohqMJf9wBSqpqK5npT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T19:15:35.713Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="yXH42dOuGc7ooQY-quAe" version="21.3.2" type="github">
   <diagram name="Seite-1" id="ZNGUfkY3MXgLGNmw0yQi">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RoyfLwgmVHQ5mKmBM7Ez-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RoyfLwgmVHQ5mKmBM7Ez-1" target="RoyfLwgmVHQ5mKmBM7Ez-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoyfLwgmVHQ5mKmBM7Ez-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RoyfLwgmVHQ5mKmBM7Ez-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RoyfLwgmVHQ5mKmBM7Ez-2" target="RoyfLwgmVHQ5mKmBM7Ez-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RoyfLwgmVHQ5mKmBM7Ez-2" value="Computer sets Random Word for User" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RoyfLwgmVHQ5mKmBM7Ez-4" value="Store in Variable" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
